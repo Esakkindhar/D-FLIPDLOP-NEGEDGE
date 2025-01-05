@@ -69,7 +69,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/17f2725f-6544-4a19-88bd-2eee7462cbf7)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 ![image](https://github.com/user-attachments/assets/39810a4c-613e-4310-9c9f-eb7ef5f72b0d)
 
 
